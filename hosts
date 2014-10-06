@@ -13,6 +13,14 @@
 ::1	localhost
 #Localhost
 
+
+198.41.247.157	feedly.com
+74.125.25.121	s3.feedly.com
+23.23.72.70	fbprod.flipboard.com
+54.230.150.180	cdn.flipboard.com
+54.225.133.17	beacon.flipboard.com
+
+
 #Google
 
 218.176.242.247	google.com
