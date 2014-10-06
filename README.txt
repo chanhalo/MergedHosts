@@ -2,6 +2,8 @@
 并整合了imouto.host、netsh.org、huhamhire-hosts、google-hosts中的所有Google服务（含YouTube）地址；
 其他网址收录Wiki百科、Dropbox、Facebook、Twitter、Wordpress。
 
+添加部分flipboard和feedly网址
+
 ##########如果你想用hosts方式来看YouTube，那么把下面的添加到AdBlock/AdBlock Plus自定义过滤规则
 
 Adblock过滤规则(Firefox版可能很麻烦)：
