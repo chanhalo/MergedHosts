@@ -1,8 +1,7 @@
-﻿收录了Jack YouOSX的YouTube专用hosts，
+﻿#收录了Jack YouOSX的YouTube专用hosts；
 并整合了imouto.host、netsh.org、huhamhire-hosts、google-hosts中的所有Google服务（含YouTube）地址；
-其他网址收录Wiki百科、Dropbox、Facebook、Twitter、Wordpress。
-
-添加部分flipboard和feedly网址
+并以DNS服务器ns.center.web.ad.jp为查询依据，删除其中无效的地址。
+其他网址收录Wiki百科、Dropbox、Facebook、Twitter、Wordpress、Flickr。其他……
 
 ##########如果你想用hosts方式来看YouTube，那么把下面的添加到AdBlock/AdBlock Plus自定义过滤规则
 
