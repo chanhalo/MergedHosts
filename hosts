@@ -4649,12 +4649,10 @@
 
 
 #Facebook
-127.0.0.1	ads.ak.facebook.com
-127.0.0.1	creative.ak.facebook.com
-127.0.0.1	creative.ak.fbcdn.net
 69.171.237.25	facebook.com
 69.171.237.25	www.facebook.com
 69.171.237.25	m.facebook.com
+69.171.237.25	l.facebook.com
 69.171.237.25	d.facebook.com
 69.171.237.25	touch.facebook.com
 69.171.237.25	zh-CN.facebook.com
