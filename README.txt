@@ -1,4 +1,4 @@
-﻿#收录了Jack YouOSX的YouTube专用hosts；
+﻿收录了Jack YouOSX的YouTube专用hosts，同时参考此hosts修改Google play的域名。
 并整合了imouto.host、netsh.org、huhamhire-hosts、google-hosts中的所有Google服务（含YouTube）地址；
 并以DNS服务器ns.center.web.ad.jp为查询依据，删除其中无效的地址。
 其他网址收录Wiki百科、Dropbox、Facebook、Twitter、Wordpress、Flickr。其他……
