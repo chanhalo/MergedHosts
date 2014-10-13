@@ -23,10 +23,3 @@ r*sn*.c.youtube.com
 @@q4f7dm7
 @@q4f7sn7
 @@vgqsem7
-@@q4f7sn7e
-@@q4f7sn7k
-@@q4f7sn7l
-@@q4f7sn7r
-@@q4f7sn7s
-@@vgqsem7e
-@@vgqsem7l﻿
