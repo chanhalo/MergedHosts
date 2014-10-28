@@ -1,6 +1,6 @@
-É¾³ıyoutube»º´æÓÃÓòÃû£¬½öÄÜ·ÃÎÊ£¬ÎŞ·¨¹Û¿´
-1¡¢ÔÚJack YouOSXµÄYouTube×¨ÓÃhosts»ù´¡Ö®ÉÏĞŞ¸Ä£¬Ìí¼ÓÁËxjpm-4g5e£¬x1x7snee£¬ab5e6m7k£¬hp57zn7k£¬ni57dn7e£¬oguesn7d£¬oguesn7y£¬oguesn76£¬oguesn7s£¬oguesnez£¬oguesnls£¬oguesnsz£¬vgqsem7z£»
-Í¬Ê±²Î¿¼´ËhostsÌí¼Óbigcache.googleapis¡¢googlesyndication¡¢android.clients.googleµÄÓòÃû¡£
-2¡¢ÕûºÏÁËimouto.host¡¢netsh.org¡¢huhamhire-hosts¡¢google-hostsÖĞµÄGoogle·şÎñ£¨º¬YouTube£©µØÖ·£¨½öÊÕÂ¼ÓòÃû£¬²»ÊÕÂ¼ip£©£»
-²¢ÒÔDNS·şÎñÆ÷ns.center.web.ad.jpÎª²éÑ¯ÒÀ¾İ£¬É¾³ıÆäÖĞÒ»Ğ©ÎŞĞ§µÄÓòÃû¡£
-3¡¢ÆäËûÍøÖ·ÊÕÂ¼Wiki°Ù¿Æ¡¢Dropbox¡¢Facebook¡¢Twitter¡¢Wordpress¡¢Flickr¡¢Ixquick¡£
+ï»¿åˆ é™¤youtubeç¼“å­˜ç”¨åŸŸåï¼Œä»…èƒ½è®¿é—®ï¼Œæ— æ³•è§‚çœ‹
+1ã€åœ¨Jack YouOSXçš„YouTubeä¸“ç”¨hostsåŸºç¡€ä¹‹ä¸Šä¿®æ”¹ï¼Œæ·»åŠ äº†xjpm-4g5eï¼Œx1x7sneeï¼Œab5e6m7kï¼Œhp57zn7kï¼Œni57dn7eï¼Œoguesn7dï¼Œoguesn7yï¼Œoguesn76ï¼Œoguesn7sï¼Œoguesnezï¼Œoguesnlsï¼Œoguesnszï¼Œvgqsem7zï¼›
+åŒæ—¶å‚è€ƒæ­¤hostsæ·»åŠ bigcache.googleapisã€googlesyndicationã€android.clients.googleçš„åŸŸåã€‚
+2ã€æ•´åˆäº†imouto.hostã€netsh.orgã€huhamhire-hostsã€google-hostsä¸­çš„GoogleæœåŠ¡ï¼ˆå«YouTubeï¼‰åœ°å€ï¼ˆä»…æ”¶å½•åŸŸåï¼Œä¸æ”¶å½•ipï¼‰ï¼›
+å¹¶ä»¥DNSæœåŠ¡å™¨ns.center.web.ad.jpä¸ºæŸ¥è¯¢ä¾æ®ï¼Œåˆ é™¤å…¶ä¸­ä¸€äº›æ— æ•ˆçš„åŸŸåã€‚
+3ã€å…¶ä»–ç½‘å€æ”¶å½•Wikiç™¾ç§‘ã€Dropboxã€Facebookã€Twitterã€Wordpressã€Flickrã€Ixquickã€‚
