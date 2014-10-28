@@ -1,4 +1,6 @@
-ï»¿ä¿®æ”¹äº†Jack YouOSXçš„YouTubeä¸“ç”¨hostsï¼ŒåŒæ—¶å‚è€ƒæ­¤hostsæ·»åŠ bigcache.googleapisã€googlesyndicationã€android.clients.googleçš„åŸŸåã€‚
-æ•´åˆäº†imouto.hostã€netsh.orgã€huhamhire-hostsã€google-hostsä¸­çš„GoogleæœåŠ¡ï¼ˆå«YouTubeï¼‰åœ°å€ï¼ˆä»…æ”¶å½•åŸŸåï¼Œä¸æ”¶å½•ipï¼‰ï¼›
-å¹¶ä»¥DNSæœåŠ¡å™¨ns.center.web.ad.jpä¸ºæŸ¥è¯¢ä¾æ®ï¼Œåˆ é™¤å…¶ä¸­ä¸€äº›æ— æ•ˆçš„åŸŸåã€‚
-å…¶ä»–ç½‘å€æ”¶å½•Wikiç™¾ç§‘ã€Dropboxã€Facebookã€Twitterã€Wordpressã€Flickrã€Ixquickã€‚
+É¾³ıyoutube»º´æÓÃÓòÃû£¬½öÄÜ·ÃÎÊ£¬ÎŞ·¨¹Û¿´
+1¡¢ÔÚJack YouOSXµÄYouTube×¨ÓÃhosts»ù´¡Ö®ÉÏĞŞ¸Ä£¬Ìí¼ÓÁËxjpm-4g5e£¬x1x7snee£¬ab5e6m7k£¬hp57zn7k£¬ni57dn7e£¬oguesn7d£¬oguesn7y£¬oguesn76£¬oguesn7s£¬oguesnez£¬oguesnls£¬oguesnsz£¬vgqsem7z£»
+Í¬Ê±²Î¿¼´ËhostsÌí¼Óbigcache.googleapis¡¢googlesyndication¡¢android.clients.googleµÄÓòÃû¡£
+2¡¢ÕûºÏÁËimouto.host¡¢netsh.org¡¢huhamhire-hosts¡¢google-hostsÖĞµÄGoogle·şÎñ£¨º¬YouTube£©µØÖ·£¨½öÊÕÂ¼ÓòÃû£¬²»ÊÕÂ¼ip£©£»
+²¢ÒÔDNS·şÎñÆ÷ns.center.web.ad.jpÎª²éÑ¯ÒÀ¾İ£¬É¾³ıÆäÖĞÒ»Ğ©ÎŞĞ§µÄÓòÃû¡£
+3¡¢ÆäËûÍøÖ·ÊÕÂ¼Wiki°Ù¿Æ¡¢Dropbox¡¢Facebook¡¢Twitter¡¢Wordpress¡¢Flickr¡¢Ixquick¡£
